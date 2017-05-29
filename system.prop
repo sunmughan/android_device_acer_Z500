@@ -1,5 +1,5 @@
 #
-# system.prop for Z500
+# system.prop for generic sdk
 #
 service.adb.root=1
 ro.sf.lcd_density=320
